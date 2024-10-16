@@ -27,6 +27,7 @@ To run this project locally, follow these steps:
 Clone the repository:
 ```bash
    git clone https://github.com/yourusername/kranthi-FrontendDeveloper.git
+```
 
 Navigate to the project directory:
 ```bash
