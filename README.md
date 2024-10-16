@@ -26,19 +26,22 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 ```bash
-   git clone https://github.com/yourusername/kranthi-FrontendDeveloper.git
+   git clone https://github.com/kranthikata/kranthi-FrontendDeveloper.git
 ```
 
 Navigate to the project directory:
 ```bash
    cd kranthi-FrontendDeveloper
+```
 
 Install dependencies:
 ```bash
    npm install
+```
 
 Start the development server:
 ```bash
    npm start
+```
 
 
