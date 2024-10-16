@@ -44,7 +44,7 @@ function App() {
           </div>
         </div>
 
-        {/* Overlay (optional) */}
+        {/* ------------------Overlay--------------*/}
         <div className="absolute top-0 left-0 w-full h-full bg-black opacity-50 z-0"></div>
       </div>
 
